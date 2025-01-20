@@ -95,7 +95,7 @@ plt.title("Comparação do Aluguel Médio por Tipo de Imóvel")
 
 ## Conclusões
 
-Este projeto oferece uma análise detalhada do mercado de aluguel de imóveis em São Paulo, permitindo que se identifiquem tendências de preço, preferências de bairro e características dos imóveis que influenciam o valor do aluguel. A análise pode ser útil para corretores de imóveis, inquilinos e investidores que buscam entender melhor o mercado de aluguel na cidade.
+Este projeto oferece uma análise do mercado de aluguel de imóveis em São Paulo, permitindo que se identifiquem tendências de preço, preferências de bairro e características dos imóveis que influenciam o valor do aluguel. A análise pode ser útil para corretores de imóveis, inquilinos e investidores que buscam entender melhor o mercado de aluguel na cidade.
 
 ## Tecnologias Utilizadas
 
@@ -115,5 +115,5 @@ pip install pandas matplotlib seaborn
 3. Execute o script para carregar os dados e realizar a análise.
 
 ```python
-python analise_imoveis.py
+python analise_imoveis.ipynb
 ```
