@@ -36,7 +36,7 @@ Durante o processo de análise, foram realizados os seguintes tratamentos de dad
 Os registros com valores ausentes ou inconsistentes foram tratados adequadamente, e o conjunto de dados foi verificado para garantir que não há valores nulos.
 
 ```python
-df.isnull().sum()  # Verifica valores nulos
+df.isnull().sum()  # Verifica os valores nulos
 df.describe()  # Estatísticas descritivas
 ```
 
