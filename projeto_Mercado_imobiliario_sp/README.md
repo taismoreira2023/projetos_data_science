@@ -1,7 +1,7 @@
 # Projeto de Análise de Dados de Aluguéis de Imóveis em São Paulo
 
 Este projeto realiza uma análise exploratória de dados sobre imóveis alugados na cidade de São Paulo. O conjunto de dados contém informações sobre imóveis disponíveis para locação, incluindo detalhes como endereço, tipo, área, número de quartos, garagem, aluguel e custo total.
-<a href="https://taismoreira2023.github.io/apresentacao_aluguei_SP/">Site de apresetação do projeto</a>
+<a href="https://taismoreira2023.github.io/apresentacao_aluguei_SP/">Site de apresentação do projeto</a>
 
 ## Objetivo
 
